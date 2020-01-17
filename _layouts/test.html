@@ -1,4 +1,11 @@
 <!DOCTYPE html>
 <html>
-{{ content }}
+  <head>
+    <title>
+      {{ page.title | default: "moca 40 stories" }}
+    </title>
+  </head>
+  <body>
+    {{ content }}
+  </body>
 </html>
