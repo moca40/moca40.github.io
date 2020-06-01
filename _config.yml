@@ -84,3 +84,14 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+collections:
+  oneworld:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title/
+  stories:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title/
+  marathon:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title/
