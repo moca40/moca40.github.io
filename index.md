@@ -3,7 +3,7 @@ layout: page
 title:  
 ---
 
-![](https://user-images.githubusercontent.com/47676628/82744965-c6e6ad00-9db1-11ea-9782-721e797ec4db.jpg)
+![](https://user-images.githubusercontent.com/47676628/83377616-b0230480-a408-11ea-850a-50599e50c664.jpg)
 
 ### More Information
 
