@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title: In 2020, MOCA Celebrates its 40th Anniversary  
 ---
 
 ![](https://user-images.githubusercontent.com/47676628/83377627-bf09b700-a408-11ea-9ba6-6df690305d35.jpg)
