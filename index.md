@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Home
-permalink: /
 ---
 
 MOCA in 2020
