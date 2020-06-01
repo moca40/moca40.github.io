@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Home
+title:  
 ---
 
-MOCA in 2020
+![](https://user-images.githubusercontent.com/47676628/82744965-c6e6ad00-9db1-11ea-9782-721e797ec4db.jpg)
 
 ### More Information
 
