@@ -84,7 +84,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  
+ 
+ # Collections
+collections: 
+  - slides 
 
 collections:
   oneworld:
