@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yale-China Associaon
-slide:
+slides:
   -
     img: https://user-images.githubusercontent.com/47676628/83579180-90720600-a506-11ea-874f-6415e9fd3eca.jpg
   -
