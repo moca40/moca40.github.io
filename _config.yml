@@ -84,6 +84,17 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
+   defaults:
+   -
+     scope:
+       path: "_slides"  #__
+     values:
+       layout: "iframe"
+
+ collections:
+   slides:
+     output: true
 
 collections:
   oneworld:
