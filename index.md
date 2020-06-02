@@ -10,7 +10,7 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/83377638-c630c500-a408-11ea-9a82-bef0a7c060ca.jpg
 ---
 
-
+{% include slideshow.html %}
 
 ### More Information
 
