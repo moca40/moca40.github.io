@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Yale-China Associaon
+title: Oral Histories
 ---
 
-This donaon of around 23,000 N95 masks was the ﬁrst donaon of a group of China-based NGOs that called itself the “COVID-19 Life Preservaon Fund” – here being presented by Yale-China Associaon members Gary Zhou and David Youtz to the Deputy Dean of the Medical School Dr. Paul Taheri and Associate Dean R. Robert Rohrbaugh.
+During the first year of the New York Chinatown History Project their priority was to conduct oral histories with members of the neighborhood.  Over the course of 1981 the fledgling organization collected 28 oral histories.  These included prominent community leaders such as Man Bun Lee (the Chinese Consolidated Benevolent Association President at the time ), William “Charlie” Chin (Folk Singer), and Emma Mills (founder and former president of the Chinatown Planning Council).  These oral histories, which are accessible by visiting the MOCA archives, offer a look into a bygone Chinatown and can serve as valuable first hand sources for researchers.  
 
-![](https://user-images.githubusercontent.com/47676628/82744965-c6e6ad00-9db1-11ea-9782-721e797ec4db.jpg)
+在纽约华埠历史研究社的头一年，他们的优先目标是制作邻里成员的口述历史。在1981年一整年的时间之中，这个初生的组织搜集了28个口述历史，其中包含著名的社区领导，例如李文彬（当时的中华公所主席）、William “Charlie” Chin （民歌歌手）以及Emma Mills（华人策划协会创始人与前任会长）。来访者可于美国华人博物馆馆藏研究中心取得这些口述历史，它们让人一窥昔日唐人街，并为研究者提供了珍贵的一手史料。
+
 
