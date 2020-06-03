@@ -4,14 +4,19 @@ title: Oral Histories
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/83590055-ea80c480-a522-11ea-954e-42deda254175.jpg
+    url: http://ohms.mocanyc.org/viewer/viewer.php?cachefile=2015_048_001_1530026191.xml
   -
     img: https://user-images.githubusercontent.com/47676628/83590089-f53b5980-a522-11ea-8863-abfed83195ac.jpg
+    url: http://ohms.mocanyc.org/
   -
     img: https://user-images.githubusercontent.com/47676628/83590333-86aacb80-a523-11ea-8e07-6b5071e1142a.jpg
+    url: http://ohms.mocanyc.org/interviews.php?ProjectName=Journey+Wall
   -
     img: https://user-images.githubusercontent.com/47676628/83590155-156b1880-a523-11ea-995a-94ca192eee63.jpg
+    url: http://ohms.mocanyc.org/interviews.php?ProjectName=Journey+Wall
   -
     img: https://user-images.githubusercontent.com/47676628/83590256-56fbc380-a523-11ea-8568-3066f4a771db.jpg
+    url: http://ohms.mocanyc.org/interviews.php?ProjectName=Journey+Wall
 ---
 
 During the first year of the New York Chinatown History Project their priority was to conduct oral histories with members of the neighborhood.  Over the course of 1981 the fledgling organization collected 28 oral histories.  These included prominent community leaders such as Man Bun Lee (the Chinese Consolidated Benevolent Association President at the time ), William “Charlie” Chin (Folk Singer), and Emma Mills (founder and former president of the Chinatown Planning Council).  These oral histories, which are accessible by visiting the MOCA archives, offer a look into a bygone Chinatown and can serve as valuable first hand sources for researchers.  
