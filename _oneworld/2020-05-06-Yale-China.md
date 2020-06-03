@@ -12,7 +12,7 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/83579214-a8498a00-a506-11ea-9540-64b6521a6ab1.jpg
 ---
 
-This donaon of around 23,000 N95 masks was the ﬁrst donaon of a group of China-based NGOs that called itself the “COVID-19 Life Preservaon Fund” – here being presented by Yale-China Associaon members Gary Zhou and David Youtz to the Deputy Dean of the Medical School Dr. Paul Taheri and Associate Dean R. Robert Rohrbaugh.
+[This donaon](https://www.newhavenbiz.com/article/yale-med-school-receives-n95-masks-from-chinese-ngos) of around 23,000 N95 masks was the ﬁrst donaon of a group of China-based NGOs that called itself the “COVID-19 Life Preservaon Fund” – here being presented by [Yale-China Associaon](https://www.yalechina.org/covid19-assistance) members Gary Zhou and David Youtz to the Deputy Dean of the Medical School Dr. Paul Taheri and Associate Dean R. Robert Rohrbaugh.
 
 {% include slideshow.html %}
 
