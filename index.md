@@ -23,5 +23,5 @@ MOCA celebrates it 40th anniversary, telling 40 MOCA stories, collecting and pre
 
 OneWorld Submission:
 [oneworld@mocanyc.org](mailto:oneworld@mocanyc.org)
-; TCS NYC Marathon MOCA40 Team:
-[mocaspike150@mocanyc.org](mailto:mocaspike150@mocanyc.org)
+; MOCA Collections:
+[collections@mocanyc.org](mailto:collections@mocanyc.org)
