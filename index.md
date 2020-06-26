@@ -17,7 +17,7 @@ slides:
 
 ### More Information
 
-MOCA celebrates it 40th anniversary, telling 40 MOCA stories, collecting and presenting OneWorld Covid-19 Special Collection, forming 2020 MOCA NYC Marathon charity Team fundraising for MOCA's mission and running the 50th TSC NYC Marathon.
+IN 2020, MOCA celebrates its 40th anniversary, telling 40 MOCA stories, collecting and presenting OneWorld Covid-19 Special Collection, and sharing collection's post-fire new acquisitions.
 
 ### Contact me
 
