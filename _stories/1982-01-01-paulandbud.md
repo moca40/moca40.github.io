@@ -1,4 +1,28 @@
-Bud Glick and Paul Calhoun 
+---
+layout: post
+title: Bud Glick and Paul Calhoun  
+slides:
+  -
+    img: https://user-images.githubusercontent.com/47676628/83590055-ea80c480-a522-11ea-954e-42deda254175.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/83590089-f53b5980-a522-11ea-8863-abfed83195ac.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/83590333-86aacb80-a523-11ea-8e07-6b5071e1142a.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/83590155-156b1880-a523-11ea-995a-94ca192eee63.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/83590256-56fbc380-a523-11ea-8568-3066f4a771db.jpg 
+      -
+    img: https://user-images.githubusercontent.com/47676628/83590055-ea80c480-a522-11ea-954e-42deda254175.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/83590089-f53b5980-a522-11ea-8863-abfed83195ac.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/83590333-86aacb80-a523-11ea-8e07-6b5071e1142a.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/83590155-156b1880-a523-11ea-995a-94ca192eee63.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/83590256-56fbc380-a523-11ea-8568-3066f4a771db.jpg 
+
 As the New York Chinatown History Project grew so did the organization’s collection efforts.  In 1982 two freelance photographers, Bud Glick and Paul Calhoun, were bought on to photograph and document the New York Chinatown community.   The two men photographed the daily life of the residents of the community between 1982-1983.   
 Glick would eventually revisit some of his subjects in preparation for a 2018 MOCA exhibition “Interior Lives: Photographs of Chinese Americans in the 1980s by Bud Glick” showcasing his newly digitized 1982-1983 photographs.  The exhibition ran from October 2018 through March 2019.  
 
