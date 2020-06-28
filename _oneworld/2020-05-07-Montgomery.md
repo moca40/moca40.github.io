@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Six days in Montgomery, NJ
+title: Six Days in Montgomery, NJ
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/85933900-200e9880-b8aa-11ea-8126-9803a9a9bb32.jpg
