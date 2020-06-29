@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bud Glick and Paul Calhoun, 1882  
+title: Bud Glick and Paul Calhoun, 1982  
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/86065144-e28e4480-ba3c-11ea-8521-5fd0ebaa63e6.jpg
