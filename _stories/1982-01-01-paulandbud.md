@@ -1,27 +1,27 @@
 ---
 layout: post
-title: Bud Glick and Paul Calhoun  
+title: Bud Glick and Paul Calhoun, 1882  
 slides:
   -
-    img: https://github.com/moca40/moca40.github.io/blob/master/images/2014.s1.jpg
+    img: https://user-images.githubusercontent.com/47676628/86065144-e28e4480-ba3c-11ea-8521-5fd0ebaa63e6.jpg
   -
-    img: https://github.com/moca40/moca40.github.io/blob/master/images/2004.102-5.jpg
+    img: https://user-images.githubusercontent.com/47676628/86065153-e5893500-ba3c-11ea-9ff7-d7f296deb378.jpg
   -
-    img: https://github.com/moca40/moca40.github.io/blob/master/images/2004.102-4.jpg
+    img: https://user-images.githubusercontent.com/47676628/86065156-e621cb80-ba3c-11ea-8ad9-3283c3db1700.jpg
   -
-    img: https://github.com/moca40/moca40.github.io/blob/master/images/2004.102-3.jpg
+    img: https://user-images.githubusercontent.com/47676628/86065158-e621cb80-ba3c-11ea-993a-19b4df8b669f.jpg
   -
-    img: https://github.com/moca40/moca40.github.io/blob/master/images/2004.102-2.jpg
+    img: https://user-images.githubusercontent.com/47676628/86065160-e6ba6200-ba3c-11ea-999f-0fb929962113.jpg
       -
-    img: https://github.com/moca40/moca40.github.io/blob/master/images/2004.102-1.jpg
+    img: https://user-images.githubusercontent.com/47676628/86065162-e752f880-ba3c-11ea-9d38-e211a99d8f3b.jpg
   -
-    img: https://github.com/moca40/moca40.github.io/blob/master/images/2004.045-4.jpg
+    img: https://user-images.githubusercontent.com/47676628/86065147-e3bf7180-ba3c-11ea-8baa-63100c1ae878.jpg
   -
-    img: https://github.com/moca40/moca40.github.io/blob/master/images/2004.045-3.jpg
+    img: https://user-images.githubusercontent.com/47676628/86065148-e4580800-ba3c-11ea-9a0b-0ce0f68d31ef.jpg
   -
-    img: https://github.com/moca40/moca40.github.io/blob/master/images/2004.045-2.jpg
+    img: https://user-images.githubusercontent.com/47676628/86065150-e4580800-ba3c-11ea-8cb7-9fca3178b25a.jpg
   -
-    img: https://github.com/moca40/moca40.github.io/blob/master/images/2004.045-1.jpg
+    img: https://user-images.githubusercontent.com/47676628/86065152-e4f09e80-ba3c-11ea-9faa-686ba92cbe42.jpg
 ---
 
 As the New York Chinatown History Project grew so did the organization’s collection efforts.  In 1982 two freelance photographers, Bud Glick and Paul Calhoun, were bought on to photograph and document the New York Chinatown community.   The two men photographed the daily life of the residents of the community between 1982-1983.   
