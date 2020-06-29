@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MOCA Co-Founders
+title: MOCA Co-Founders, 1980
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/83583387-32e3b680-a512-11ea-85b4-ba3118b19339.jpg
