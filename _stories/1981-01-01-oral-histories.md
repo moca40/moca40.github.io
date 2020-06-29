@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oral Histories 
+title: Oral Histories, 1981 
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/83590055-ea80c480-a522-11ea-954e-42deda254175.jpg
