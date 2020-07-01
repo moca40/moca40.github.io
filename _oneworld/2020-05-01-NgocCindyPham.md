@@ -4,6 +4,7 @@ title: Professor Ngoc Cindy Pham
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/86293984-ab956b80-bbc1-11ea-98b4-309d87f43bce.jpg
+    url: https://youtu.be/A-9TKYvTxCM
   -
     img: https://user-images.githubusercontent.com/47676628/86293975-a89a7b00-bbc1-11ea-9bd9-8dd6c9c161de.jpg
   -
@@ -12,7 +13,7 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/86293995-ad5f2f00-bbc1-11ea-9f98-5c15872a85c2.jpg
   -
     img: https://user-images.githubusercontent.com/47676628/86293989-acc69880-bbc1-11ea-88b4-23a19d20bcb1.jpg
-    -
+  -
     img: https://user-images.githubusercontent.com/47676628/86293985-ac2e0200-bbc1-11ea-88dd-8948b699d664.jpg
   -
     img: https://user-images.githubusercontent.com/47676628/86293993-acc69880-bbc1-11ea-9d61-41c6491ca0cf.jpg
