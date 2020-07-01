@@ -4,7 +4,6 @@ title: Professor Ngoc Cindy Pham
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/86293984-ab956b80-bbc1-11ea-98b4-309d87f43bce.jpg
-    url: https://youtu.be/A-9TKYvTxCM
   -
     img: https://user-images.githubusercontent.com/47676628/86293975-a89a7b00-bbc1-11ea-9bd9-8dd6c9c161de.jpg
   -
