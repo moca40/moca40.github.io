@@ -93,6 +93,9 @@ collections:
   stories:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
-  marathon:
+  post-fire acquisitions:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
+  fire recovery:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title/  
