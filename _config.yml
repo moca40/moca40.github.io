@@ -93,9 +93,9 @@ collections:
   stories:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
-  post-fire acquisitions:
+  acquisitions:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
-  fire recovery:
+  recovery:
     output: true
     permalink: /:collection/:year/:month/:day/:title/  
