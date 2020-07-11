@@ -15,7 +15,7 @@ slides:
       -
     img: https://user-images.githubusercontent.com/47676628/86065162-e752f880-ba3c-11ea-9d38-e211a99d8f3b.jpg
   -
-    img: (/images/2004.045-1.jpg.jpg "xiao hai")
+    img: https://github.com/moca40/moca40.github.io/blob/master/images/2004.045-1.jpg
   -
     img: https://user-images.githubusercontent.com/47676628/86065148-e4580800-ba3c-11ea-9a0b-0ce0f68d31ef.jpg
   -
