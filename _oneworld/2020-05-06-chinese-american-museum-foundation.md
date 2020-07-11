@@ -5,7 +5,7 @@ slides:
   -
     img: https://user-images.githubusercontent.com/47676628/87230429-155e0400-c37e-11ea-9f4c-9e85f05311b6.jpg
   -
-    img: https://user-images.githubusercontent.com/47676628/87230431-168f3100-c37e-11ea-8414-ee69c8ba4bea.jpg
+    img: https://user-images.githubusercontent.com/47676628/87235894-88cc3980-c3af-11ea-8906-7846cc8a5398.jpg
     url: https://youtu.be/T6ApldlssZc
 ---   
 
