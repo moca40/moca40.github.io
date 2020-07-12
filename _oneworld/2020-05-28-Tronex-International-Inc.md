@@ -13,4 +13,5 @@ slides:
 ---
 
 Donald Chu is the CEO of Tronex International, Inc. which is a major manufacturer of quality PPE. Tronex’s products have been featured on news articles and national television as an example of PPE equipment. As an Asian-American business owner based in New Jersey, Donald vigorously supports efforts to contain the outbreak in the New York and New Jersey area through a combination of relentless production of equipment as well as philanthropic donations of PPE to areas where supplies are critically low. PPE equipment is vital to the protection of essential workers, and Tronex’s efforts under the guidance of Donald are invaluable to fighting the Covid-19 pandemic. 
+
 {% include slideshow.html %}
