@@ -7,10 +7,12 @@ MOCA has launched the OneWorld COVID-19 Collection that seeks to document and sh
 We welcome you to send us a write-up, photos, videos, audio, emails, texts and any other materials to oneworld@mocanyc.org to share a story that you believe should be recorded. Help us continue to tell the stories of these extraordinary individuals and community groups.⁣⁣⁣⁣⁣⁣
 
 <ul>
-<!-- post list -->
-{% for post in paginator.oneworld %}
-<li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
-{% endfor %}
+ {% for post in site.oneworld %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
 </ul>
   
 <!-- pagination -->
