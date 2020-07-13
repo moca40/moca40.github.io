@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tronex International, Inc. Builds on Its Mission to Serve Through Critical PPE Supply
+title: Tronex International, Inc.
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/87259372-deb8e400-c478-11ea-9f32-8e36539a22ee.jpg
