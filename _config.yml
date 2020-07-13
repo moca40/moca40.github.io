@@ -85,9 +85,6 @@ exclude:
   - README.md
   - CNAME 
 
-paginate: 5
-paginate_path: /page:num/
-
 collections:
   oneworld:
     output: true
