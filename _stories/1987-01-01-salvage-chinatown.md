@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Salvaging New York Chinatown: Preserving a Heritage, 1987
+title: Salvaging New York Chinatown, Preserving a Heritage, 1987
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/88129117-3fe16580-cba5-11ea-95fa-5b7ad2f38eab.jpg
