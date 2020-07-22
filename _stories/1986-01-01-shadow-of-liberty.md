@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In the Shadow of Liberty: Graphics of Chinese Exclusion, 1870s - 1890s, 1986
+title: In the Shadow of Liberty: Graphics of Chinese Exclusion, 1870s - 1890s
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/88127764-7cf82880-cba2-11ea-92a7-11d4c5093d91.jpg
