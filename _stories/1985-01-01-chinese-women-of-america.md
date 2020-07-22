@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/47676628/88126275-3654ff00-cb9f-11ea-92af-f8cc592f1e68.jpg---
+---
 layout: post
 title: The Chinese Women of America, 1985
 slides:
