@@ -14,7 +14,7 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/88129102-3952ee00-cba5-11ea-92fc-fd39c154637b.jpg 
 ---
 
-Fay Chiang was the daughter of a paper son; her father immigrated to the United States to work in a laundry at ten years old. She found it difficult to communicate with her immigrant parents as they rarely spoke to their coming of age stories. When her father passed away, Chiang looked through the salvages of her parents’ past. These instances of Chaing’s were commonplace for many second generation Chinese Americans. In the 1980s, New York Chinatown History Project asked community members for family memorabilia to record the 100-year-old history. The collection resulted in the 1987 show, Salvaging New York Chinatown: Preserving a Heritage curated by Dorothy Rony. 
+Fay Chiang was the daughter of a paper son; her father immigrated to the United States to work in a laundry at ten years old. She found it difficult to communicate with her immigrant parents as they rarely spoke to their coming of age stories. When her father passed away, Chiang looked through the salvages of her parents’ past. These instances of Chaing’s were commonplace for many second generation Chinese Americans. In the 1980s, New York Chinatown History Project asked community members for family memorabilia to record the 100-year-old history. The collection resulted in the 1987 show, [Salvaging New York Chinatown: Preserving a Heritage](https://www.nytimes.com/1987/11/08/nyregion/a-new-exhibition-on-old-chinatown-is-enhanced-by-families-artifacts.html) curated by Dorothy Rony. 
 
 {% include slideshow.html %}
 
