@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marcella B. Chin Dear collection, 1997
+title: Marcella B. Chin Dear collection, 2006
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/72847207-12f0dc00-3c70-11ea-9c02-fb51a03fcf93.jpg
