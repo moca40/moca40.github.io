@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lee Mingwei-The Travelers and The Quartet Project, 2011
-, 1997
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/72847207-12f0dc00-3c70-11ea-9c02-fb51a03fcf93.jpg
