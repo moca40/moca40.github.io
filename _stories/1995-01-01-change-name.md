@@ -28,6 +28,6 @@ slides:
 
 1995年,博物馆第二次改名，从唐人街历史博物馆变为现在的美国华人博物馆(MoCA)。这一次改名反映了博物馆的新方向。随着华裔散居的研究发展，博物馆认识到了超越唐人街范围的采集与教育需求。同一年内，博物馆会与意大利的【米兰三年展】合作举办一新展览，名为【唐人街: 指名民族空间】。
 
-{% include slideshow.html %}https://user-images.githubusercontent.com/47676628/88328385-5b0fba80-ccf6-11ea-8cd9-377b87a63a0f.jpg
+{% include slideshow.html %}
 
 
