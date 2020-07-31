@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Waves of Identity: 35 Years of Archiving, 2014
+title: "Waves of Identity: 35 Years of Archiving, 2014"
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/72847207-12f0dc00-3c70-11ea-9c02-fb51a03fcf93.jpg
