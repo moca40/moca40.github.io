@@ -5,7 +5,8 @@ slides:
   -
     img: https://user-images.githubusercontent.com/47676628/72847207-12f0dc00-3c70-11ea-9c02-fb51a03fcf93.jpg
 ---
-Throughout 1997 and the earlier part of 1998, the museum began conducting a series of oral histories with Chinese that immigrated to Latin and South America.  Many of the interviewees would end up living in the United States and their narratives provided a unique series of experiences that had not previously been explored.  Their journeys saw them adapting to two radically different cultures instead of purely trying to assimilate into US culture.  In the end, three of their stories were chosen to be exhibited at MoCA in 1998 under the exhibition “Mi Familia, Mi Comunidad.”  
+
+Throughout 1997 and the earlier part of 1998, the museum began conducting a series of oral histories with Chinese that immigrated to Latin America .  Many of the interviewees would end up living in the United States and their narratives provided a unique series of experiences that had not previously been explored in depth.   Their journeys saw them adapting to two radically different cultures instead of purely trying to assimilate into US culture.  In the end, three of their stories were chosen to be exhibited at MoCA in 1998 under the exhibition “Mi Familia, Mi Comunidad.”
 	
 The complete collection of oral histories done for this project can be listened to in our digital database [here](http://ohms.mocanyc.org/interviews.php?ProjectName=The+Chino-Latino+Project) 
 
