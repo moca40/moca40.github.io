@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Water to Paper, Paint to Sky: The Art of Tyrus Wong"
+title: "Water to Paper, Paint to Sky: The Art of Tyrus Wong, 2015"
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/72847207-12f0dc00-3c70-11ea-9c02-fb51a03fcf93.jpg
