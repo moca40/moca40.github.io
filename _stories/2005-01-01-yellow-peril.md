@@ -10,8 +10,8 @@ slides:
 
 To combat the negative depictions, Yishi also collected ephemera based around Asian American reflections on their own identity. These materials served to juxtapose the negative depictions in the exhibition. Notably, the Basement Workshop published the art book Yellow Pearl (1976), which showcased poetry, drawings, and sheet music from a collective of Asian American artists and activists.  
 
-[《”黄祸“的收藏家: Yoshio Kishi 新美国收藏》](https://www.nytimes.com/2005/05/01/nyregion/thecity/in-a-west-side-apartment-a-world.html)2005年在美国华人博物馆开展。[该展览](https://www.asianconnections.com/item/-7)以美国华人博物馆传世人Jack Tchen联合讲解。”黄祸“这个词出于十九世纪因亚裔散居而威胁到英美人种的概念。这个概念推广于格式媒体，例如英国小说中的反面角色傅满洲，此展包含Yoshio Kishi 与演员Yah Ling Sun 私人收集中的许多美国亚裔文物品。此收集检验了由美国文学，主流媒体，和印刷作品对于美国亚裔身份的概念产生的负面刻板影响。
-
-为了抗衡这些负面的描写，Yishi也收集了美国亚裔反思自身身份的印刷品。这些作品与有着负面描写的作品在展览中成立了一强烈对比。另一值得注意的一点是地下工作室出版的《黄色珍珠》(1976)艺术书籍，书的内容包含了亚裔艺术家与激进主义分子的诗词，绘画，和乐谱。
+[“‘黄祸’收藏家: Yoshio Kishi 新美国收藏”](https://www.nytimes.com/2005/05/01/nyregion/thecity/in-a-west-side-apartment-a-world.html)2005年在美国华人博物馆开展。[展览](https://www.asianconnections.com/item/-7)以美国华人博物馆创始人Jack Tchen联合策展。“黄祸“这个概念起于英美人众因十九世纪亚裔移民现象而收到得威胁感。“黄祸”这个概念以格式媒体推广，例如英国小说中的反面角色傅满洲。此展包含了Yoshio Kishi 与演员Yah Ling Sun 私人收藏中的许多美国亚裔文物。此系列文物对美国文学，主流媒体，和印刷作品中产生对亚裔得偏见与负面刻板影响进行了检验。
+  
+为了抗衡这些负面影响，Kishi也收藏了以美国亚裔所创造的作品。这些作品得主要内容涉及到作者对自己亚裔身份得感想。这些作品与有着负面描写的作品在展中成立了强烈的对比性。值得注意的另一点是地下工作室出版的《黄色珍珠》(1976)艺术书籍；书的内容包含了亚裔艺术家与激进主义分子的诗词，绘画，和乐谱。
 
 {% include slideshow.html %}
