@@ -10,8 +10,9 @@ Throughout 1997 and the earlier part of 1998, the museum began conducting a seri
 	
 The complete collection of oral histories done for this project can be listened to in our digital database [here](http://ohms.mocanyc.org/interviews.php?ProjectName=The+Chino-Latino+Project) 
 
-1997年至1998年年初，博物馆开始一系列移民拉丁美洲华裔的口述史采访。因其中包括了从拉丁美洲搬至美国的人员，采访中描述了一种未受过研究探索的特殊经验。他们在旅途中诉说了适应两种差距极大的文化的经验，与普通的同化美国的故事有所不同。其中三个故事被选中，1998年在美国华人博物馆的“我的家庭，我的社区” 展览下展出。
-此项目中口完整述史收藏可以在我们的资料库[这里](http://ohms.mocanyc.org/interviews.php?ProjectName=The+Chino-Latino+Project))听到： 
+1997年至1998年年初，馆方开始一系列对拉丁美洲华裔的口述史采访。采访人士中包括从拉丁美洲搬至美国的移民人士；他们在采访中所描述得特殊经历未有过教学上的深入研究。他们诉说了适应两种差距极大的文化的旅途，与广泛同化美国的故事有所不同。其中三个故事被选中，1998年在美国华人博物馆的“我的家庭，我的社区” 展览下展出。
+
+此项目中口完整述史收藏可以在我们的资料库[这里](http://ohms.mocanyc.org/interviews.php?ProjectName=The+Chino-Latino+Project)听到。 
 
 {% include slideshow.html %}
 
