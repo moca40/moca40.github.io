@@ -10,8 +10,9 @@ In 2010, Lee Mingwei, a Taiwan-born American artist, was commissioned by MOCA to
 
 The second part of the project was The Quartet Project. It was a sound installation that highlighted the experiences of displaced individuals. Antonín Dvořák’s American String Quartet was recited on four separate monitors in the exhibit and audiences were prompted to dictate how the piece should be orchestrated. These 2011 projects continued the museum’s long term goal of elevating the everyday lives of those in the community.
 
-2010年，美国华人博物馆委任了在台湾出生的美国艺术家李明维创作一个分为两部分的项目来与当地社群互动。第一部分《游客》中，李先收集了数人对于”离家“这个概念的想法。采集过程中，李先生将100本笔记本传于社群人众，之后转至家人朋友和熟人手中。一年后，他们的笔记本被博物馆收回，而后成为了[李明维展览](https://www.mocanyc.org/exhibitions/lee_mingwei_the_travelers_and_the_quartet_project)的一部分。
-
-此项目的第二部名为《四重奏》，是一项展示失所居民的经历的声音装置艺术品。安东宁·德沃夏克的”美国”玄乐四重奏在四个分别的屏幕上反复重放，而听客们可随意改动乐曲的编排。这两个2011年的项目延续了博物馆提高社群日常生活质量的长期目标。
+李明维: 游人与四重奏
+	2010年，美国华人博物馆委任了在台湾出生的美国艺术家李明维创作一个分为两部分的项目来与当地社群互动。第一部分"游人"中，李先生收集了数人对于”离家“这个题目的想法。采集过程中，李先生将100本笔记本传于社群人众，之后从个人手上转至家人朋友和熟人手中。一年后，笔记本被博物馆收回，成为了[李明维展览](https://www.mocanyc.org/exhibitions/lee_mingwei_the_travelers_and_the_quartet_project)的一部分。
+  
+	此项目的第二部分名为"四重奏"，是一项利用音律展示失所居民得经历的艺术品。安东宁·德沃夏克的”美国”玄乐四重奏在四个分别的屏幕上反复重放，而访客们可随意改造乐曲的编排。这个2011年的项目助于延续博物馆的长期目标：提高社群日常生活质量。
 
 {% include slideshow.html %}
