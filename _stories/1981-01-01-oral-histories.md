@@ -21,6 +21,6 @@ slides:
 
 During the first year of the New York Chinatown History Project their priority was to conduct [oral histories](http://ohms.mocanyc.org/) with members of the neighborhood.  Over the course of 1981 the fledgling organization collected 28 oral histories.  These included prominent community leaders such as Man Bun Lee (the Chinese Consolidated Benevolent Association President at the time ), William “Charlie” Chin (Folk Singer), and Emma Mills (founder and former president of the Chinatown Planning Council).  These oral histories, which are accessible by visiting the MOCA archives, offer a look into a bygone Chinatown and can serve as valuable first hand sources for researchers.  
 
-在纽约华埠历史研究社的头一年，他们的优先目标是制作邻里成员的口述历史。在1981年一整年的时间之中，这个初生的组织搜集了28个[口述历史](http://ohms.mocanyc.org/)，其中包含著名的社区领导，例如李文彬（当时的中华公所主席）、William “Charlie” Chin （民歌歌手）以及Emma Mills（华人策划协会创始人与前任会长）。来访者可于美国华人博物馆馆藏研究中心取得这些口述历史，它们让人一窥昔日唐人街，并为研究者提供了珍贵的一手史料。
+在纽约华埠历史研究社的头一年，他们的优先目标是制作邻里成员的口[述历史](http://ohms.mocanyc.org/)。在1981年一整年的时间之中，这个初生的组织搜集了28个口述历史，其中包含著名的社区领导，例如李文彬（当时的中华公所主席）、William “Charlie” Chin （民歌歌手）以及Emma Mills（华人策划协会创始人与前任会长）。来访者可于美国华人博物馆馆藏研究中心取得这些口述历史，它们让人一窥昔日唐人街，并为研究者提供了珍贵的一手史料。
 
 {% include slideshow.html %}
