@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post-Fire Acquisitions 
+title: Post-Fire Acquisitions
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/89824707-8af5f500-db21-11ea-91a8-a44aebc3df5e.jpg 
@@ -20,7 +20,7 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/89824652-76196180-db21-11ea-82c7-fc7c23d5a845.jpg
   -
     img: https://user-images.githubusercontent.com/47676628/89824657-77e32500-db21-11ea-9f5a-a3d5fea747d3.jpg
- -
+  -
     img: https://user-images.githubusercontent.com/47676628/89824660-79ace880-db21-11ea-910d-92e22fbd5b85.jpg 
   -
     img: https://user-images.githubusercontent.com/47676628/89824666-7c0f4280-db21-11ea-9955-3542d7db336c.jpg 
