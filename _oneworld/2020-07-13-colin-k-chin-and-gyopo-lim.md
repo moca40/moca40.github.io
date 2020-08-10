@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Documenting Persistence In Oakland's Chinatown:
-A simple collection of photos documenting public spaces in Oakland's historic Chinatown through the weekend of July 4th, 2020.
+title: "Documenting Persistence In Oakland's Chinatown: A simple collection of photos documenting public spaces in Oakland's historic Chinatown through the weekend of July 4th, 2020"
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/89803818-52deba00-db01-11ea-8616-8353a11b1267.jpg  
