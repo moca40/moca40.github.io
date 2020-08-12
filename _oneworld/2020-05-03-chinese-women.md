@@ -23,9 +23,11 @@ slides:
   -
     img: https://user-images.githubusercontent.com/47676628/90058669-071e4300-dcb0-11ea-82fe-bdf691a6bef0.jpg
   -
-    img: https://user-images.githubusercontent.com/47676628/89947789-01aef300-dbf3-11ea-8643-e4997dffb1bf.jpg
+    img: https://user-images.githubusercontent.com/47676628/90058651-fff73500-dcaf-11ea-9eec-e56679a82a1e.jpg
   -
-    img: https://user-images.githubusercontent.com/47676628/89947790-01aef300-dbf3-11ea-8d91-08134913528c.JPG 
+    img: https://user-images.githubusercontent.com/47676628/90066276-849b8080-dcbb-11ea-9057-b7d43d484886.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/90066282-85ccad80-dcbb-11ea-9141-4ad84978ee66.jpg
   -
     img: https://user-images.githubusercontent.com/47676628/90060789-3e422380-dcb3-11ea-9862-7604566602c0.jpg  
   -
@@ -36,6 +38,10 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/90060760-33878e80-dcb3-11ea-816b-4a01ee6bc841.jpg 
   -
     img: https://user-images.githubusercontent.com/47676628/90060756-31253480-dcb3-11ea-81b6-ba6b8e06be74.jpg
+  -  
+    img: https://user-images.githubusercontent.com/47676628/90060741-2e2a4400-dcb3-11ea-8db3-f7b0a5b14ed9.jpg 
+  -
+    img: https://user-images.githubusercontent.com/47676628/90060732-29fe2680-dcb3-11ea-980b-4fc3d0a41405.jpg
 ---
 
 The U.S. Chinese Women Organization (UCWO), has expressed its solidarity during the Covid-19 epidemic through various donations of supplies to local hospitals and medical institutions. The organization itself is devoted to the interests of Chinese-American women in American society and is a frequent and active participant in a multitude charitable endeavors. Their donations of masks and gowns during the onset of Covid-19 include but are not limited to 6,000 face masks to the Walnut City Hall, Walnut Police Station, and Walnut Unified School district as well as 100 gowns to the Beverly Foundation. 
