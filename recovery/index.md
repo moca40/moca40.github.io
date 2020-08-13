@@ -21,10 +21,6 @@ slides:
   -
     img: https://user-images.githubusercontent.com/47676628/89826914-e970a280-db24-11ea-8041-2943dbd7edf1.jpg
   -
-    img: https://user-images.githubusercontent.com/47676628/89824657-77e32500-db21-11ea-9f5a-a3d5fea747d3.jpg
-  -
-    img: https://user-images.githubusercontent.com/47676628/89826818-d067f180-db24-11ea-8c48-b3cb2f55e43e.jpg 
-  -
     img: https://user-images.githubusercontent.com/47676628/89826822-d1008800-db24-11ea-88e9-3dcfdbd3af69.jpg
   - 
     img: https://user-images.githubusercontent.com/47676628/89826825-d1991e80-db24-11ea-93e2-1e5851757f2c.jpg
@@ -56,6 +52,8 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/89826867-dd84e080-db24-11ea-9607-7c9c726d418b.jpg 
   -
     img: https://user-images.githubusercontent.com/47676628/89826870-de1d7700-db24-11ea-896a-e917f77920c7.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/89826818-d067f180-db24-11ea-8c48-b3cb2f55e43e.jpg 
   -
     img: https://user-images.githubusercontent.com/47676628/89826875-df4ea400-db24-11ea-9294-55c292d82fba.jpg
   -
