@@ -56,7 +56,7 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/89826870-de1d7700-db24-11ea-896a-e917f77920c7.jpg  
   -
     img: https://user-images.githubusercontent.com/47676628/89826875-df4ea400-db24-11ea-9294-55c292d82fba.jpg
--
+  -
     img: https://user-images.githubusercontent.com/47676628/89826818-d067f180-db24-11ea-8c48-b3cb2f55e43e.jpg    
   -
     img: https://user-images.githubusercontent.com/47676628/89826880-e07fd100-db24-11ea-89b5-73274c408514.jpg  
