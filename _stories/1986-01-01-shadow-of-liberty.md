@@ -5,9 +5,9 @@ slides:
   -
     img: https://user-images.githubusercontent.com/47676628/88127764-7cf82880-cba2-11ea-92a7-11d4c5093d91.jpg
   -
-    img：https://user-images.githubusercontent.com/47676628/90279883-01536980-de38-11ea-91be-e9893e12632c.JPG
-  -
     img: https://user-images.githubusercontent.com/47676628/90279857-f6003e00-de37-11ea-8ed7-693f334a011b.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/90279883-01536980-de38-11ea-91be-e9893e12632c.JPG
   -
     img: https://user-images.githubusercontent.com/47676628/90284067-55ae1780-de3f-11ea-9b06-b1861720bb5c.JPG
   -
