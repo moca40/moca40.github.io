@@ -32,7 +32,7 @@ In the darkness, you held my hand for eternity.<br/>
 You’re the twilight on the horizon, <br/>
 You are New York’s hope, <br/>
 Because of you, the virus cannot run rampant, <br/>
-Because of you, endows light upon life as we know it. <br/>
+Because of you, life is endowed with light. <br/>
 
    天使的爱
 
