@@ -3,7 +3,29 @@ layout: post
 title: Chino-Latino Oral Hitory Project, 1998
 slides:
   -
-    img: https://user-images.githubusercontent.com/47676628/72847207-12f0dc00-3c70-11ea-9c02-fb51a03fcf93.jpg
+    img: https://user-images.githubusercontent.com/47676628/90418482-28ea4200-e083-11ea-86b4-483120659748.jpg
+    url: http://ohms.mocanyc.org/viewer/viewer.php?cachefile=2015_007_002_1530031483.xml
+  -
+    img: https://user-images.githubusercontent.com/47676628/90418484-2982d880-e083-11ea-8c32-e8545d28086f.jpg
+    url: http://ohms.mocanyc.org/viewer/viewer.php?cachefile=2015_007_003_1530031632.xml
+  -
+    img: https://user-images.githubusercontent.com/47676628/90418485-2982d880-e083-11ea-8515-5530c67910cc.jpg
+    url: http://ohms.mocanyc.org/viewer/viewer.php?cachefile=2015_007_004_1530032017.xml
+  -
+    img: https://user-images.githubusercontent.com/47676628/90418486-2982d880-e083-11ea-8557-8c8f4a14e570.jpg
+    url: http://ohms.mocanyc.org/viewer/viewer.php?cachefile=2015_007_005_1530032155.xml
+  -
+    img: https://user-images.githubusercontent.com/47676628/90418487-2982d880-e083-11ea-890d-84f37773e675.jpg
+    url: http://ohms.mocanyc.org/viewer/viewer.php?cachefile=2015_007_006_1530032485.xml
+  -
+    img: https://user-images.githubusercontent.com/47676628/90418488-2a1b6f00-e083-11ea-83ac-6cbee73d2327.jpg
+    url: http://ohms.mocanyc.org/viewer/viewer.php?cachefile=2015_007_007_1530032735.xml
+  -
+    img: https://user-images.githubusercontent.com/47676628/90418479-2851ab80-e083-11ea-9e74-dd28dcbaa3fc.jpg
+    url: http://ohms.mocanyc.org/viewer/viewer.php?cachefile=2015_007_011_1530033213.xml
+  -
+    img: https://user-images.githubusercontent.com/47676628/90418481-28ea4200-e083-11ea-8f3d-43e965d8e22c.jpg
+    url: http://ohms.mocanyc.org/viewer/viewer.php?cachefile=2015_007_013_1530033908.xml
 ---
 
 Throughout 1997 and the earlier part of 1998, the museum began conducting a series of oral histories with Chinese that immigrated to Latin America .  Many of the interviewees would end up living in the United States and their narratives provided a unique series of experiences that had not previously been explored in depth.   Their journeys saw them adapting to two radically different cultures instead of purely trying to assimilate into US culture.  In the end, three of their stories were chosen to be exhibited at MoCA in 1998 under the exhibition “Mi Familia, Mi Comunidad.”
