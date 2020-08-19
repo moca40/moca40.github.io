@@ -3,7 +3,9 @@ layout: post
 title: “Yellow Peril”, 2005
 slides:
   -
-    img: https://user-images.githubusercontent.com/47676628/72847207-12f0dc00-3c70-11ea-9c02-fb51a03fcf93.jpg
+    img: https://user-images.githubusercontent.com/47676628/90585306-8c1ec600-e1a2-11ea-9e2d-7ad69e590447.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/90585308-8de88980-e1a2-11ea-8101-6ed6858ace5c.jpg
 ---
 
 [Archivist of the “Yellow Peril”: Yoshio Kishi Collecting for a New America](https://www.nytimes.com/2005/05/01/nyregion/thecity/in-a-west-side-apartment-a-world.html) opened at MOCA in 2005.  [The show](https://www.asianconnections.com/item/-7) was co-curated by MOCA founder Jack Tchen.  The “Yellow Peril” moniker was derived from a 19th century phrase that originated from the supposed threat of the Asian diaspora to Anglo Americans. This trope was popularized through the media with fictional character such as Fu Manchu.  The show displayed various artifacts of Asian Americana from the personal collections of film editor, Yoshio Kishi and actress Yah Ling Sun. The collection examines perceived identities of Asians and Asian Americans based around unflattering stereotypes in American literature, popular media, and paper ephemera.  
