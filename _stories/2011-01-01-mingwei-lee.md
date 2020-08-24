@@ -3,7 +3,25 @@ layout: post
 title: Lee Mingwei-The Travelers and The Quartet Project, 2011
 slides:
   -
-    img: https://user-images.githubusercontent.com/47676628/72847207-12f0dc00-3c70-11ea-9c02-fb51a03fcf93.jpg
+    img: https://user-images.githubusercontent.com/47676628/91104605-1603de80-e63c-11ea-8f20-f0e18ba81bd4.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91104810-87dc2800-e63c-11ea-9970-b397829f4fdf.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91104816-89a5eb80-e63c-11ea-898a-03f8d4dce9af.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91104807-8579ce00-e63c-11ea-9266-5d1f10d57a3b.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91104799-827edd80-e63c-11ea-82c5-55150d5de3bf.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91104682-3d5aab80-e63c-11ea-8e7e-429552700e69.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91105381-f8377900-e63d-11ea-922e-be8a3bed7230.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91104498-ebb22100-e63b-11ea-83d6-c68914432f8d.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91104497-ea80f400-e63b-11ea-8336-ac31805ea1bb.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91104500-ebb22100-e63b-11ea-860f-5b5af477fdda.jpg
 ---
 
 In 2010, Lee Mingwei, a Taiwan-born American artist, was commissioned by MOCA to start a two part interactive project that engaged members of the community. The first part titled The Travelers saw Mingwei ask individuals to share their stories on the idea of “leaving home.” This was done using 100 notebooks that were sent as chain letters to the members of the community, asking them to pass on such books to their family, friends, and acquaintances after participating themselves. A year later the books that made their way back to the museum were displayed as part of [Mingwei’s installation](https://www.mocanyc.org/exhibitions/lee_mingwei_the_travelers_and_the_quartet_project).
