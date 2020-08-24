@@ -1,15 +1,16 @@
 ---
 layout: post
 title: 215 Centre Street, 2009
-slides:
-  - 
-    img: https://user-images.githubusercontent.com/47676628/90991783-afb68780-e579-11ea-9df3-313796654bed.jpg
+slides: 
   -
-    img: https://user-images.githubusercontent.com/47676628/90991745-7847db00-e579-11ea-9b9f-c8cbdd204481.jpg
+    img: https://user-images.githubusercontent.com/47676628/83377627-bf09b700-a408-11ea-9ba6-6df690305d35.jpg
+    url: http://www.mocanyc.org/
   -
-    img: https://user-images.githubusercontent.com/47676628/90991777-a9281000-e579-11ea-8ac8-5d84105e9ba1.jpg
+    img: https://user-images.githubusercontent.com/47676628/83377616-b0230480-a408-11ea-850a-50599e50c664.jpg
+    url: http://www.mocanyc.org/
   -
-    img: https://user-images.githubusercontent.com/47676628/90991778-aaf1d380-e579-11ea-977c-282bc2df487f.jpg
+    img: https://user-images.githubusercontent.com/47676628/83377638-c630c500-a408-11ea-9a82-bef0a7c060ca.jpg
+    url: http://www.mocanyc.org/
 ---
 
 In 2009, having outgrown the confines of 70 Mulberry street,  MOCA relocated, a few blocks away, to 215 Centre Street.  The new location, on the border of Chinatown and Soho, was designed by Chinese American architect Maya Lin. With the additional space, curators Cynthia Lee and Jack Tchen were able to expand on the museum’s core exhibition.  The improved and expanded exhibition was named With a Single Step: Stories in the making of America.  The exhibition is still on display at the museum today with small updates having been made to keep it current. The 70 Mulberry space was turned into the collections and research center, which MOCAa continued to operate until a fire in January 2020 displaced all the buildings tenants.  
