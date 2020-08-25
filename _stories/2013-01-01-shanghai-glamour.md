@@ -3,7 +3,45 @@ layout: post
 title: Shanghai Glamour-New Women 1910-40s, 2013
 slides:
   -
-    img: https://user-images.githubusercontent.com/47676628/72847207-12f0dc00-3c70-11ea-9c02-fb51a03fcf93.jpg
+    img: https://user-images.githubusercontent.com/47676628/91193017-a4bc3e00-e6c4-11ea-92dd-1e2032a5b3db.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91196005-9f142780-e6c7-11ea-9fe5-4fb3881c47f0.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195254-dafabd00-e6c6-11ea-9222-4d4fd437bcad.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195264-dcc48080-e6c6-11ea-8144-7d0b7537205f.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195276-de8e4400-e6c6-11ea-8e96-227c38f22b54.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91193016-a423a780-e6c4-11ea-8ba7-59a845009e49.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91192994-9d953000-e6c4-11ea-9f99-2715c93d6b5d.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91193023-a71e9800-e6c4-11ea-94e7-2a0d544b0dc7.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91193029-a980f200-e6c4-11ea-9ca4-f6aa9c1e2c84.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91193040-aab21f00-e6c4-11ea-8960-ec2707a514ed.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91193047-ad147900-e6c4-11ea-8db7-639604e68de7.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195382-f1087d80-e6c6-11ea-9ade-9142da31addc.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195370-ef3eba00-e6c6-11ea-8dfd-b1299bc68b63.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195360-ed74f680-e6c6-11ea-864b-d02b488dedf7.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91196945-c5869280-e6c8-11ea-982c-6222c575766a.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195317-e5b55200-e6c6-11ea-8d59-8215b59dc26b.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195326-e77f1580-e6c6-11ea-834b-bbf8d67937c9.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195403-f665c800-e6c6-11ea-997d-5ceb58293a4a.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195307-e3eb8e80-e6c6-11ea-8771-6ff770664592.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91195289-e1893480-e6c6-11ea-9b1a-10ce84409bb7.jpg
 ---
 
 [Shanghai Glamour: New Women 1910-40s](
