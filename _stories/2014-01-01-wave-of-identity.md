@@ -3,7 +3,35 @@ layout: post
 title: "Waves of Identity: 35 Years of Archiving, 2014"
 slides:
   -
-    img: https://user-images.githubusercontent.com/47676628/72847207-12f0dc00-3c70-11ea-9c02-fb51a03fcf93.jpg
+    img: https://user-images.githubusercontent.com/47676628/91209213-62e9c280-e6d9-11ea-9094-e89d0bb621c3.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91209214-641aef80-e6d9-11ea-89b4-4fd0e7dbd9af.JPG
+  -
+    img: https://user-images.githubusercontent.com/47676628/91209216-641aef80-e6d9-11ea-8760-24be4dc7e9f0.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91209231-6b41fd80-e6d9-11ea-8f1a-1945f879b108.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91211417-bc072580-e6dc-11ea-8504-7a3f21d428f8.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91211420-bdd0e900-e6dc-11ea-9513-a7e21a6a44ec.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91211424-bf9aac80-e6dc-11ea-9d8a-17d2def580f8.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91211426-c0cbd980-e6dc-11ea-81c9-a2d0dd2c30db.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91211426-c0cbd980-e6dc-11ea-81c9-a2d0dd2c30db.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91211385-b27dbd80-e6dc-11ea-958b-dfb72ea675d5.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91211389-b4478100-e6dc-11ea-953a-198982d22b46.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91212356-148af280-e6de-11ea-8cfa-e3c1394ac967.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91211396-b6114480-e6dc-11ea-9cfe-73c28f894a06.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91211399-b6a9db00-e6dc-11ea-8b24-93c6106607c4.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/91211414-bad5f880-e6dc-11ea-907c-06c240c6ff75.jpg
 ---
 
 [Waves of Identity: 35 Years of Archiving](http://www.mocanyc.org/about/press/press_release/museum_of_chinese_in_america_to_present_waves_of_identity_35_years_of_arch) was an [exhibition](http://www.mocanyc.org/exhibitions/waves_of_identity) that celebrated MOCA’s 35th anniversary by showcasing artifacts the museum had collected over its history. The exhibition reexamines what it means to be Chinese American, asking the questions, Where Does Chinatown End? How Do You Become An American? and What Does It Mean To Be Chinese? It engaged visitors in a dialogue about their own identities and asked them to actively search for answers within the provided archive materials and objects. Objects across special collections in MOCA’s archives came together with documents, videos, and oral histories that embody the complexities of Chinese Americans in New York Chinatown and beyond. 
