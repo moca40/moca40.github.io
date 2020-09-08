@@ -9,13 +9,21 @@ slides:
   -
     img: https://user-images.githubusercontent.com/47676628/90084684-06070900-dce4-11ea-9be5-5b5ecfbaac19.jpg
   -
+    img: https://user-images.githubusercontent.com/47676628/90084708-11f2cb00-dce4-11ea-88c9-b767153081de.jpg
+  -
     img: https://user-images.githubusercontent.com/47676628/90084702-0ef7da80-dce4-11ea-8c24-28050c733374.jpg
   -
     img: https://user-images.githubusercontent.com/47676628/90084700-0dc6ad80-dce4-11ea-86ed-b411ccbd1019.jpg
   -
-    img: https://user-images.githubusercontent.com/47676628/90084706-10290780-dce4-11ea-86a8-6e71d5ddf5b1.jpg
+    img: https://user-images.githubusercontent.com/47676628/92503748-b4ad4500-f1cf-11ea-9bef-03f5535869d4.jpg
   -
-    img: https://user-images.githubusercontent.com/47676628/90084708-11f2cb00-dce4-11ea-88c9-b767153081de.jpg
+    img: https://user-images.githubusercontent.com/47676628/92503687-a101de80-f1cf-11ea-96c5-a25534047ae8.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/92503743-b37c1800-f1cf-11ea-9def-fcb2bc87c174.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/92503758-b7a83580-f1cf-11ea-891d-35d8deeb6994.jpg
+  -
+    img：https://user-images.githubusercontent.com/47676628/90084706-10290780-dce4-11ea-86a8-6e71d5ddf5b1.jpg
 ---
 
 The New York Chinatown History Project’s first exhibition titled “Eight Pound Livelihood” debuted in 1983.  The show examined the lives of Chinese laundrymen in New York’s Chinatown.  The term “eight pound” in the title refers to the weight of the heavy irons that laundrymen wielded on a daily basis.  The exhibition was installed on panels at the main branch of the New York Public Library on 42nd street.   After the show closed, it travelled to various college campuses including Cornell, Oberlin, New Hampshire, and various CUNY schools.  
