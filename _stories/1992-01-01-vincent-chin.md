@@ -16,9 +16,9 @@ On June 19, 1982, a 27 year old Chinese-American man was beaten into a coma that
 
 In 1987 documentary filmmakers Christine Choy and Renee Tajima-Pena made the documentary Who Killed Vincent Chin? The film delves into the facts about the case and aftermath of the ruling.  The filmmakers collected news footage, fliers, transcripts, and other materials, which they would later donate to MOCA in 1992.  
 
-在1982年六月十九日，一位二十七岁的华裔美籍男子被殴打致昏迷，且再也没有清醒过来了。他会成为暴力事件的目标是由于两位加害男子认为受害者是日本人，应为底特律汽车业的萧条负责，因此攻击他。然而，由于法官表示：＂这两位并非一般会被送监的类型，一般来说不会让刑罚配合犯行，而是让刑罚配合罪犯来处理。＂因此这两名男子并没有面临任何的刑期。 
+在1982年6月19日，一位二十七岁的华裔美籍男子被殴打致昏迷，且再也没有醒过来。他之所以成为目标，是因为殴打他的两个人认为他是日本人，并指责他应为底特律汽车业的萧条负责。然而，由于法官表示：“这两位不是会被送进监狱的人......你不会将惩罚用于犯罪，而是将惩罚用于罪犯，”因此这两名男子并没有面临任何的刑期。 
 
-电影制片及导演崔明慧（Christine Choy）与蕾妮‧田岛－佩尼亚（Renee Tajima-Pena）拍摄了一部纪录片──《谁杀了陈果仁？》（Who Killed Vincent Chin?），该片探究了事件经过与后续的判决。这两位电影人搜集了许多新闻片段、传单、逐字稿以及其他的物件，并于1992年将这些文物赠与美国华人博物馆。
+1987年，电影制作人崔明慧（Christine Choy）与蕾妮‧田岛－佩尼亚（Renee Tajima-Pena）拍摄了一部纪录片《谁杀了陈果仁？》（Who Killed Vincent Chin?），该片深入研究了事件经过与裁决的后续。这两位电影人搜集了许多新闻片段、传单、记录稿以及其他材料，并于1992年将这些文物赠与美国华人博物馆。
 
 {% include slideshow.html %}
 
