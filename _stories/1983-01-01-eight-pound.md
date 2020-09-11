@@ -23,7 +23,7 @@ slides:
   -
     img: https://user-images.githubusercontent.com/47676628/92503758-b7a83580-f1cf-11ea-891d-35d8deeb6994.jpg
   -
-    img：https://user-images.githubusercontent.com/47676628/90084706-10290780-dce4-11ea-86a8-6e71d5ddf5b1.jpg
+    img: https://user-images.githubusercontent.com/47676628/90084706-10290780-dce4-11ea-86a8-6e71d5ddf5b1.jpg
 ---
 
 The New York Chinatown History Project’s first exhibition titled “Eight Pound Livelihood” debuted in 1983.  The show examined the lives of Chinese laundrymen in New York’s Chinatown.  The term “eight pound” in the title refers to the weight of the heavy irons that laundrymen wielded on a daily basis.  The exhibition was installed on panels at the main branch of the New York Public Library on 42nd street.   After the show closed, it travelled to various college campuses including Cornell, Oberlin, New Hampshire, and various CUNY schools.  
