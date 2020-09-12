@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flushing’s Chinatown, 2003
-slides：
+slides:
   -
     img: https://user-images.githubusercontent.com/47676628/92983145-b5fc9d00-f46f-11ea-86c3-2dcbd7e2c463.jpg
   -
