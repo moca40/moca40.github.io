@@ -96,9 +96,8 @@ In 2006 MOCA acquired its single largest collection, which was donated by longti
   
 Marcella’s father had saved his family artifacts with the intention of opening a family museum but when he passed away, his daughter donated the collection to MOCA.  The collection is around 150 linear feet and contains textiles, imported books, vinyl records, game sets, instruments, family photographs, store signs, ceramics, and furniture. These artifacts document the life of a multigenerational Chinese American family in the United States. 
 
-美国华人博物馆在2006年间收到了博物馆最大的一系列文物收集，以久居唐人街的陈雪瑛捐纳。陈家以十九世纪迁至纽约，后开启了一系列成功的企业。其中最知名的企业是Rice Bowl Restaurant, 一家被称为曼哈顿唐人街第一家有空调的中餐馆。
+美国华人博物馆在2006年间收到了博物馆最大的一个文物收藏，由久居唐人街的居民陈雪瑛捐赠。陈家于十九世纪迁至纽约，之后创办了一系列成功的企业。其中最知名的是大同酒家, 大同酒家被誉为曼哈顿唐人街第一家有空调的中餐馆。
 
-陈雪瑛的父亲在家中积存物品，本意是想创作一所家庭博物馆；可在他过世后，他的女儿把收藏品皆捐给了美国华人博物馆。这些文物概括了约莫46米长的空间， 之内文物有纺织品，进口书籍，唱片，成套游戏，乐器，家庭照，店牌，陶瓷器，和家具。这些文物记录了一个多代美国华裔家庭在美国的生活。
-
+陈雪瑛的父亲保存家中物品，曾打算开一个家庭博物馆。在他过世后，他的女儿把这些物品捐给了美国华人博物馆。这些文物总长约150英尺，包括纺织品、进口书籍、唱片、游戏套装、乐器、家庭照片、商店门牌、陶瓷器、和家具。这些文物记录了一个多代美国华裔家庭在美国的生活。
 
 {% include slideshow.html %}
