@@ -34,8 +34,8 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/91084649-52bede00-e61a-11ea-96f5-13a3e56d192c.JPG
 ---
 
-In 2009, having outgrown the confines of 70 Mulberry street,  MOCA relocated, a few blocks away, to 215 Centre Street.  The new location, on the border of Chinatown and Soho, was designed by Chinese American architect Maya Lin. With the additional space, curators Cynthia Lee and Jack Tchen were able to expand on the museum’s core exhibition.  The improved and expanded exhibition was named With a Single Step: Stories in the making of America.  The exhibition is still on display at the museum today with small updates having been made to keep it current. The 70 Mulberry space was turned into the collections and research center, which MOCAa continued to operate until a fire in January 2020 displaced all the buildings tenants.  
+In 2009, having outgrown the confines of 70 Mulberry street,  MOCA relocated, a few blocks away, to 215 Centre Street.  The new location, on the border of Chinatown and Soho, was designed by Chinese American architect Maya Lin. With the additional space, curators Cynthia Lee and Jack Tchen were able to expand on the museum’s core exhibition.  The improved and expanded exhibition was named With a Single Step: Stories in the making of America.  The exhibition is still on display at the museum today with small updates having been made to keep it current. The 70 Mulberry space was turned into the collections and research center, which MOCA continued to operate until a fire in January 2020 displaced all the buildings tenants.  
 
-因博物馆得扩大受70茂比利街地空间得限制，美国华人博物馆在2009年决定搬至领进博物馆原地址得215中央街地点。这个新地点正处在唐人街与苏豪区结界的位置，建筑为美国华裔林璎所设计。有了充分的空间后，博物馆策展人Cynthia Lee与Jack Tchen扩增了博物馆的基本陈列。扩大改良后的新展览名为“始于足下：创造美国的故事”。此展览目前仍在博物馆展出，时而会被更新。原地址70茂不利街的空间改变为一所博物馆操作的收集研究中心，直到2020年一月份，楼中所有得租客迫而一场大火不得不离去。
+2009年，博物馆得以扩展，摆脱了茂比利街70号的局限，搬至中央街215号，距离茂比利街70号几个街口。博物馆新址位于唐人街与苏豪区交界处，由美国华裔建筑师林璎设计。有了增加的空间后，博物馆策展人李霭芬和陈国维得以扩展博物馆的核心展览。扩大改良后的新展览名为“千里之行：历华人历程，写美国历史”。此展览至今一直在博物馆展出，并进行小的更新以保持最新状态。原址茂比利街70号被改用于博物馆的馆藏研究中心，继续博物馆的职能，直到2020年1月份的一场大火，楼中所有的机构被迫迁出。
 
 {% include slideshow.html %}
