@@ -38,6 +38,10 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/93408415-77e1ed80-f862-11ea-936d-6bd247690726.jpg
   -
     img: https://user-images.githubusercontent.com/47676628/93409234-6699e080-f864-11ea-8920-4bf20846c22f.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/93410032-36534180-f866-11ea-8de1-dc902065a650.jpg
+  -
+    img: https://user-images.githubusercontent.com/47676628/93410027-35221480-f866-11ea-96fe-bb82a8f870e7.jpg
 ---
 
 In 1985 author and professor Judy Yung curated the show “The Chinese Women of America” at the New York Chinatown History Project.  Yung was director of the San-Francisco based Chinese Women of American Research Project, which crafted the show after two years of extensive research and oral histories.  The show examined the experiences of the first Chinese women that came to the US in 1834 to the women of the 1980s.  Notably the exhibition featured Polly Bemis (born Lalu Nathoy or Gong Heng), a Chinese woman who came to the US in 1872 as a slave and later gained her freedom; living out the rest of her life in Idaho.  It also featured Sieh King King, a female activist that spoke about female oppression in San Francisco in 1902.  
