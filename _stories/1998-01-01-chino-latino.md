@@ -34,7 +34,7 @@ The complete collection of oral histories done for this project can be listened 
 
 贯穿整个1997年以及1998年年初，美国华人博物馆开始一系列对拉丁美洲华裔的口述历史采访。很多被采访人最终都生活在美国，他们的叙述提供了一系列以前从未深入探讨过的独特经历。他们的经历展示了他们适应两种截然不同的文化，而不是仅仅单纯地试图吸取美国文化。最后，其中三个故事被选中，于1998年在美国华人博物馆的“我的家族，我的社区” 展览中展出。
 
-这个项目的完整口述历史可以在我们的网上数据库中收听[这里](http://ohms.mocanyc.org/interviews.php?ProjectName=The+Chino-Latino+Project)。 
+这个项目的完整口述历史可以在我们的网上数据库中收听，[请点击这里](http://ohms.mocanyc.org/interviews.php?ProjectName=The+Chino-Latino+Project)。 
 
 {% include slideshow.html %}
 
