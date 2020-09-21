@@ -42,6 +42,6 @@ slides:
 
 In 2016, MOCA presented [Stage Design by Ming Cho Lee](https://www.mocanyc.org/exhibitions/stage_design_by_ming_cho_lee), a retrospective that celebrated the influential set designer. Lee is known for his groundbreaking abstract design sets of the 1960s and 70s to his more recent hard-edge treatments. The exhibition followed Lee’s artistic career through more than 40 original maquettes, sketches, and photographic reproductions. He has shared his knowledge in theater, opera and dance through his work at Yale School of Drama for over 65 years. As a recipient of the Tony Award for lifetime achievement in 2013, Ming Cho Lee is one of the most acclaimed set designers in the U.S.
 
-美国华人博物馆在2016年推出了[“李名觉的舞台设计，”](https://www.mocanyc.org/exhibitions/stage_design_by_ming_cho_lee)该展以回顾性的方式赞颂了这位颇有影响力的舞台设计师。李先生以其60年代和70年代开创性的抽象布景设计到最近的硬边处理风格而闻名。此展通过展出四十多个原始模型、素描、和照片复制品，追溯了李明觉的艺术生涯。他在耶鲁戏剧学院工作超过65年，分享了他在戏剧，歌剧，和舞蹈方面的知识。作为2013年托尼终生成就奖的获奖者，李明觉是美国最受赞誉的布景设计师之一。
+美国华人博物馆在2016年推出了[“李名觉的舞台设计，”](https://www.mocanyc.org/exhibitions/stage_design_by_ming_cho_lee)该展以回顾性的方式赞颂了这位颇有影响力的舞台设计师。李先生以其60年代和70年代开创性的抽象布景设计到最近的硬边处理风格而闻名。此展通过展出四十多个原始模型、素描、和照片复制品，追踪了李明觉的艺术生涯。他在耶鲁戏剧学院工作超过65年，分享了他在戏剧，歌剧，和舞蹈方面的知识。作为2013年托尼终生成就奖的获奖者，李明觉是美国最受赞誉的布景设计师之一。
 
 {% include slideshow.html %}
