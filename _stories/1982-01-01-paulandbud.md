@@ -24,9 +24,9 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/86065152-e4f09e80-ba3c-11ea-9faa-686ba92cbe42.jpg
 ---
 
-As the New York Chinatown History Project grew so did the organization’s collection efforts.  In 1982 two freelance photographers, Bud Glick and Paul Calhoun, were bought on to photograph and document the New York Chinatown community.   The two men photographed the daily life of the residents of the community between 1982-1983.   
+As the New York Chinatown History Project grew, so did the organization’s collection efforts. In 1982, two freelance photographers, Bud Glick and Paul Calhoun, were brought on to photograph and document the New York Chinatown community. The two men photographed the daily life of the residents of the community between 1982–1983.   
 
-[Glick](http://budglickphoto.com/new-york-chinatown/) would eventually revisit some of his subjects in preparation for a 2018 MOCA exhibition “[Interior Lives: Photographs of Chinese Americans in the 1980s by Bud Glick](http://www.mocanyc.org/exhibitions/bud_glick)” showcasing his newly digitized 1982-1983 photographs.  The exhibition ran from October 2018 through March 2019.  
+[Glick](http://budglickphoto.com/new-york-chinatown/) would eventually revisit some of his subjects in preparation for a 2018 MOCA exhibition “[Interior Lives: Photographs of Chinese Americans in the 1980s by Bud Glick](http://www.mocanyc.org/exhibitions/bud_glick)” showcasing his newly digitized 1982–1983 photographs. The exhibition ran from October 2018 through March 2019.  
 
 随着纽约华埠历史研究社的发展，该组织的典藏收集工作也随之增加。1982年，两位自由摄影师Bud Glick及Paul Calhoun受雇前往拍摄和记录纽约唐人街社区，他们拍摄了1982年至1983年间社区居民的日常生活。
 
