@@ -52,7 +52,7 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/92183930-c1234d80-ee1d-11ea-9eb7-071169ad0af0.jpg
 ---
 
-Gathering: Collecting and Documenting Chinese American History, for the first time, brought together artifacts and histories from 28 Chinese American museums around the United States. The artifacts, institutional stories, and personal stories, unveiled critical periods in Chinese American history that are often neglected. The show highlighted research that has been conducted across the U.S. to preserve Chinese immigrant contributions to the American narrative. 
+"Gathering: Collecting and Documenting Chinese American History," for the first time, brought together artifacts and histories from 28 Chinese American museums around the United States. The artifacts, institutional stories, and personal stories unveiled critical periods in Chinese American history that are often neglected. The show highlighted research that has been conducted across the U.S. to preserve Chinese immigrant contributions to the American narrative. 
 
 展览“会聚：收集和记录美国华人历史”首次将全美28个华裔美国博物馆的文物和历史汇聚在一起。这些文物、机构的故事、以及个人的故事，揭开了美国华人历史中时常被忽略的关键时期。此展突出了为了保存中国移民在美国历史上的贡献而在美国所做的研究工作。
 
