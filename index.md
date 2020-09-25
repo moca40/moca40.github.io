@@ -17,7 +17,7 @@ slides:
 
 ### More Information
 
-IN 2020, MOCA celebrates its 40th anniversary, telling 40 MOCA stories, collecting and presenting OneWorld Covid-19 Special Collection, and sharing collection's recovery and post-fire new acquisitions.
+In 2020, MOCA celebrates its 40th anniversary, telling 40 MOCA stories, collecting and presenting the OneWorld Covid-19 Special Collection, and sharing the collection's recovery and post-fire new acquisitions.
 
 ### Contact me
 
