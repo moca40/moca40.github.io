@@ -38,6 +38,6 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/89824704-89c4c800-db21-11ea-877c-ffae6f029fd8.jpg
 ---
 
-On January 23, 2020, MOCA’s Collections and Research Center that housed over 85,000 artifacts (the “Collections”) of Chinese American history—experienced a devastating 5-alarm fire at its site located at 70 Mulberry Street in Chinatown, New York. MOCA’s main museum is located at 215 Centre Street in Chinatown, New York stays intact. Since the devastating fire—and with the guidance, support, and help of New York City agencies and over 400 volunteers—MOCA retrieved 95% of the artifacts in its Collections. It was estimated that over 85% of the Collections would need restorations mainly fromwater damage, and the fire recovery is ongoing. Meanwhile, MOCA has been receiving post-fire new acquisitions.
+On January 23, 2020, MOCA’s Collections and Research Center that housed over 85,000 artifacts (the “Collections”) of Chinese American history experienced a devastating five alarm fire at its site located at 70 Mulberry Street in Chinatown, New York. MOCA’s main museum, located at 215 Centre Street in Chinatown, New York, stays intact. Since the devastating fire—and with the guidance, support, and help of New York City agencies and over 400 volunteers—MOCA retrieved 95% of the artifacts in its collections. It was estimated that over 85% of the Collections would need restorations, mainly from water damage, and the fire recovery is ongoing. Meanwhile, MOCA has been receiving post-fire new acquisitions.
 
 {% include slideshow.html %}
