@@ -92,7 +92,7 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/90796329-2e42c900-e2dd-11ea-9643-6011eea385af.jpg
 ---
 
-In 2006, MOCA acquired its single largest collection, which was donated by longtime Chinatown resident Marcella B. Chin Dear. The Chin family came to New York in 1800s and established a series of successful business ventures. The most well-known being the Rice Bowl Restaurant, which was touted as one of the first Chinese restaurants in Manhattan’s Chinatown to have air conditioning. 
+In 2006, MOCA acquired its single largest collection, which was donated by longtime Chinatown resident Marcella B. Chin Dear. The Chin family came to New York in 1800s and established a series of successful business ventures. The most well-known was the Rice Bowl Restaurant, which was touted as one of the first Chinese restaurants in Manhattan’s Chinatown to have air conditioning. 
   
 Marcella’s father had saved his family artifacts with the intention of opening a family museum, but when he passed away, his daughter donated the collection to MOCA. The collection is around 150 linear feet and contains textiles, imported books, vinyl records, game sets, instruments, family photographs, store signs, ceramics, and furniture. These artifacts document the life of a multigenerational Chinese American family in the United States. 
 
