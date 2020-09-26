@@ -84,7 +84,7 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/92043136-864fe580-ed49-11ea-95fe-6e1e2fd625c1.JPG
 ---
 
-In 2018, MOCA presented "[Chinese Medicine in America: Converging Ideas, People and Practices](https://www.mocanyc.org/exhibitions/chinese_medicine_in_america)", an exploration of Chinese medicine. The show discussed “mysterious and magical” practices from the 19th century to modern “alternative medicine” (like acupuncture).  The exhibition told a cross-cultural story through medical artifacts, contemporary art, and profiles on notable medical figures to connect medicine, philosophy, and history. 
+In 2018, MOCA presented *[Chinese Medicine in America: Converging Ideas, People and Practices](https://www.mocanyc.org/exhibitions/chinese_medicine_in_america)*, an exploration of Chinese medicine. The show discussed “mysterious and magical” practices from the 19th century to modern “alternative medicine” (like acupuncture). The exhibition told a cross-cultural story through medical artifacts, contemporary art, and profiles on notable medical figures to connect medicine, philosophy, and history. 
 
 2018年，美国华人博物馆推出了展览[“中医在美国：理念、人和实践的融合。”](https://www.mocanyc.org/exhibitions/chinese_medicine_in_america)该展讨论了自十九世纪到现代“替代医学”（比如针灸）的“神秘而神奇”的实践。这个展览通过医用文物、现代艺术、和知名医学人物的个人资料将医学、哲学、和历史联系起来，讲述了一个跨文化的故事
 
