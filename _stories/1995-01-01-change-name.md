@@ -46,7 +46,7 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/88328366-521ee900-ccf6-11ea-98fa-2073b7784b0c.jpg
 ---
 
-1995 would see the museum take its second name change.  The previously renamed Chinatown History Museum would become the Museum of Chinese in the Americas (MoCA).  This name change would reflect the museum’s new direction.  As the study of Chinese diaspora grew, the museum saw a need to grow as well and expanded its collection and education efforts beyond the borders of Chinatown. That same year, the museum would work with the Triennale Di Milano in Italy to exhibit a show entitled “China/town: Naming Ethnic Spaces.”  The exhibition team also began planning stages for the museum permanent exhibition “Where is home?” that would be installed a year later in 1996.  
+1995 would see the museum take its second name change. The previously renamed Chinatown History Museum would become the Museum of Chinese in the America (MoCA). This name change would reflect the museum’s new direction. As the study of the Chinese diaspora grew, the museum saw a need to grow as well and expanded its collection and education efforts beyond the borders of Chinatown. That same year, the museum would work with the Triennale Di Milano in Italy to exhibit a show entitled “China/town: Naming Ethnic Spaces.” The exhibition team also began planning stages for the museum permanent exhibition “Where is Home?” which would be installed a year later in 1996.  
 
 博物馆在1995年第二次改名，从“唐人街历史博物馆”改为现在的“美洲华人博物馆(Museum of Chinese in the Americas (MoCA))”。这一次改名反映了博物馆指定的新方向。随着对华裔移民研究的发展，博物馆意识到自身发展的需要，并将其教育和收藏工作扩大到唐人街之外。同年，美洲华人博物馆与意大利的”米兰三年展"合作，展出名为“中国/街: 命名民族空间”的展览。展览团队还开始策划布置博物馆永久展“何处是吾家？”，该展将于一年后的1996年布展开幕。
 
