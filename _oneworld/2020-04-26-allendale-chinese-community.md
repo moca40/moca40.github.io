@@ -18,6 +18,6 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/90068747-31c3c800-dcbf-11ea-865e-56e14cc3fa7b.jpg
 ---
 
-Victor Shieh and the Chinese-American community at Allendale, New Jersey banded together to donate daily-use items as well as PPE. Their donations include items such as hand sanitizer, masks, and gloves, which were distributed to their local hospital, police department, and fire department.
+Victor Shieh and the Chinese American community at Allendale, New Jersey banded together to donate daily use items as well as PPE. Their donations include items such as hand sanitizer, masks, and gloves, which were distributed to their local hospital, police department, and fire department.
 
 {% include slideshow.html %}
