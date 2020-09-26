@@ -44,6 +44,6 @@ slides:
     img: https://user-images.githubusercontent.com/47676628/90060732-29fe2680-dcb3-11ea-980b-4fc3d0a41405.jpg
 ---
 
-The U.S. Chinese Women Organization (UCWO), has expressed its solidarity during the Covid-19 epidemic through various donations of supplies to local hospitals and medical institutions. The organization itself is devoted to the interests of Chinese-American women in American society and is a frequent and active participant in a multitude charitable endeavors. Their donations of masks and gowns during the onset of Covid-19 include but are not limited to 6,000 face masks to the Walnut City Hall, Walnut Police Station, and Walnut Unified School district as well as 100 gowns to the Beverly Foundation. 
+The U.S. Chinese Women Organization (UCWO), has expressed its solidarity during the Covid-19 epidemic through various donations of supplies to local hospitals and medical institutions. The organization itself is devoted to the interests of Chinese American women in American society and is a frequent and active participant in a multitude charitable endeavors. Their donations of masks and gowns during the onset of Covid-19 include but are not limited to 6,000 face masks to the Walnut City Hall, Walnut Police Station, and Walnut Unified School district as well as 100 gowns to the Beverly Foundation. 
 
 {% include slideshow.html %}
