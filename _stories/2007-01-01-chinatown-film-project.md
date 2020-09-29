@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Chinatwon Film Project, 2007
+title: The Chinatown Film Project, 2007
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/90845218-a2a85700-e333-11ea-88c0-3e7718ef0864.JPG
