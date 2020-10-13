@@ -7,4 +7,4 @@ title: Manhattan Chinatown photographs by Tewfic El-Sawy
 street scenes proceeding from April 2020 to the end of May 2020. The photographs show a variety of scenes, including shots of deserted streets, elderly shoppers in face
 masks and other protective gear, window ads for face masks, and the persistent street vendors of Chinatown. These photos portray the impact of Covid-19 on the public 
 sphere of Chinatown during April and the inklings of recovery in May, providing a record of the pandemic in one of the areas hit hardest by the financial and social effects
-of Covid-19.  
+of Covid-19.  To see more of El-Sawy's work please visit his website https://thetravelphotographer.exposure.co/
