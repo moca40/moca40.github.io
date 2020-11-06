@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chino-Latino Oral Hitory Project, 1998
+title: Chino-Latino Oral History Project, 1998
 slides:
   -
     img: https://user-images.githubusercontent.com/47676628/90418482-28ea4200-e083-11ea-86b4-483120659748.jpg
